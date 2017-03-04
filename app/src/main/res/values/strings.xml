@@ -3,4 +3,8 @@
     <string name="room_width">Room Width</string>
     <string name="room_length">Room Length</string>
     <string name="show_result">Show Result</string>
+    <string name="flooring_needed">Flooring Needed:</string>
+    <string name="textview">TextView</string>
+    <string name="back">Back</string>
+    <string name="result_from_other_side">Result from other side</string>
 </resources>
